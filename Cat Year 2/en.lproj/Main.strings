@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0vb-mP-P9r"; */
+"0vb-mP-P9r.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Get Age in Cat Years"; ObjectID = "8tI-HH-ds4"; */
+"8tI-HH-ds4.normalTitle" = "Get Age in Cat Years";
+
+/* Class = "UILabel"; text = "How old is your cat?"; ObjectID = "Xig-jm-eY3"; */
+"Xig-jm-eY3.text" = "How old is your cat?";
+
+/* Class = "UIButton"; normalTitle = "Get Age in Cat Years"; ObjectID = "a6j-zK-xCz"; */
+"a6j-zK-xCz.normalTitle" = "Get Age in Cat Years";
+
+/* Class = "UITextField"; placeholder = "Cats Age"; ObjectID = "xKe-9H-ZrZ"; */
+"xKe-9H-ZrZ.placeholder" = "Cats Age";
+
+/* Class = "UILabel"; text = "Cat Years"; ObjectID = "xts-PN-BXz"; */
+"xts-PN-BXz.text" = "Cat Years";

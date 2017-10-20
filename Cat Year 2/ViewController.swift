@@ -10,7 +10,26 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var textField: UITextField!
+    @IBOutlet weak var label: UILabel!
+    
+    @IBAction func buttonClicked(_ sender: Any) {
+        
+        print("button has been clicked")
+        
+        if let age = textField.text{
+            if let ageAsNumber = Int(age){
+                let ageInCatYears = ageAsNumber * 7
+                label.text = "Your cat is " + String(ageInCatYears) + " in cat years"
+                
+            }
+        }
+        
+    }
+    
     override func viewDidLoad() {
+        
+        print("Thomas")
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
